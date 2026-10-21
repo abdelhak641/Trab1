@@ -1,0 +1,5 @@
+Kotlin Toolchain version 0.13.0 (abc7a5f, 2026-10-01)
+running on Windows 11 10.0 jvm arch amd64
+
+00:03.272 WARN  :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\save.kt:28:43: Condition is always 'false'.
+00:38.326 ERROR                           MainKt                    Task ':Trab1GoGame:runJvm' failed: Process failed with exit code 1

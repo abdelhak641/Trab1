@@ -1,0 +1,45 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "dependencies": "org.jetbrains.kotlin:kotlin-stdlib:2.4.20|org.jetbrains.kotlin:kotlin-test-junit5:2.4.20|org.jetbrains.kotlin:kotlin-stdlib:2.4.20|org.jetbrains.kotlin:kotlin-test-junit5:2.4.20",
+        "excludedDependencies": "",
+        "repositories": "https://repo1.maven.org/maven2|https://maven.google.com",
+        "resolveNativeTarget": "",
+        "resolvePlatform": "jvm",
+        "resolveWasmTarget": "",
+        "userCacheRoot": "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin"
+    },
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {
+        "serializedOutput": "{\"compileClasspath\":[\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\kotlin\\\\kotlin-stdlib\\\\2.4.20\\\\kotlin-stdlib-2.4.20.jar\",\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\kotlin\\\\kotlin-test-junit5\\\\2.4.20\\\\kotlin-test-junit5-2.4.20.jar\",\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\annotations\\\\13.0\\\\annotations-13.0.jar\",\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\kotlin\\\\kotlin-test\\\\2.4.20\\\\kotlin-test-2.4.20.jar\",\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\junit\\\\jupiter\\\\junit-jupiter-api\\\\5.10.1\\\\junit-jupiter-api-5.10.1.jar\",\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\opentest4j\\\\opentest4j\\\\1.3.0\\\\opentest4j-1.3.0.jar\",\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\junit\\\\platform\\\\junit-platform-commons\\\\1.10.1\\\\junit-platform-commons-1.10.1.jar\",\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\apiguardian\\\\apiguardian-api\\\\1.1.2\\\\apiguardian-api-1.1.2.jar\"],\"runtimeClasspath\":[\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\kotlin\\\\kotlin-stdlib\\\\2.4.20\\\\kotlin-stdlib-2.4.20.jar\",\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\kotlin\\\\kotlin-test-junit5\\\\2.4.20\\\\kotlin-test-junit5-2.4.20.jar\",\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\annotations\\\\13.0\\\\annotations-13.0.jar\",\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\kotlin\\\\kotlin-test\\\\2.4.20\\\\kotlin-test-2.4.20.jar\",\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\junit\\\\jupiter\\\\junit-jupiter-engine\\\\5.10.1\\\\junit-jupiter-engine-5.10.1.jar\",\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\junit\\\\platform\\\\junit-platform-launcher\\\\1.10.1\\\\junit-platform-launcher-1.10.1.jar\",\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\junit\\\\platform\\\\junit-platform-engine\\\\1.10.1\\\\junit-platform-engine-1.10.1.jar\",\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\junit\\\\jupiter\\\\junit-jupiter-api\\\\5.10.1\\\\junit-jupiter-api-5.10.1.jar\",\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\opentest4j\\\\opentest4j\\\\1.3.0\\\\opentest4j-1.3.0.jar\",\"C:\\\\Users\\\\hasti\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\junit\\\\platform\\\\junit-platform-commons\\\\1.10.1\\\\junit-platform-commons-1.10.1.jar\"],\"coordinateOverridesForPublishing\":{}}"
+    },
+    "outputFiles": [
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\apiguardian\\apiguardian-api\\1.1.2\\apiguardian-api-1.1.2.jar",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-test-junit5\\2.4.20\\kotlin-test-junit5-2.4.20.jar",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-test\\2.4.20\\kotlin-test-2.4.20.jar",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\junit\\jupiter\\junit-jupiter-api\\5.10.1\\junit-jupiter-api-5.10.1.jar",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\junit\\jupiter\\junit-jupiter-engine\\5.10.1\\junit-jupiter-engine-5.10.1.jar",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\junit\\platform\\junit-platform-commons\\1.10.1\\junit-platform-commons-1.10.1.jar",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\junit\\platform\\junit-platform-engine\\1.10.1\\junit-platform-engine-1.10.1.jar",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\junit\\platform\\junit-platform-launcher\\1.10.1\\junit-platform-launcher-1.10.1.jar",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\opentest4j\\opentest4j\\1.3.0\\opentest4j-1.3.0.jar"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\apiguardian\\apiguardian-api\\1.1.2\\apiguardian-api-1.1.2.jar": "size 6806 mtime 2026-09-11T15:39:50.7337944Z",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar": "size 17536 mtime 2026-09-11T15:39:50.7867814Z",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar": "size 1853314 mtime 2026-09-18T15:14:04.9934014Z",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-test-junit5\\2.4.20\\kotlin-test-junit5-2.4.20.jar": "size 5183 mtime 2026-09-18T15:14:05.3868141Z",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-test\\2.4.20\\kotlin-test-2.4.20.jar": "size 183223 mtime 2026-09-18T15:14:05.5910275Z",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\junit\\jupiter\\junit-jupiter-api\\5.10.1\\junit-jupiter-api-5.10.1.jar": "size 210958 mtime 2026-09-11T15:39:50.7494848Z",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\junit\\jupiter\\junit-jupiter-engine\\5.10.1\\junit-jupiter-engine-5.10.1.jar": "size 244694 mtime 2026-09-11T15:39:50.7494848Z",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\junit\\platform\\junit-platform-commons\\1.10.1\\junit-platform-commons-1.10.1.jar": "size 106265 mtime 2026-09-11T15:39:50.7494848Z",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\junit\\platform\\junit-platform-engine\\1.10.1\\junit-platform-engine-1.10.1.jar": "size 204822 mtime 2026-09-11T15:39:50.7494848Z",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\junit\\platform\\junit-platform-launcher\\1.10.1\\junit-platform-launcher-1.10.1.jar": "size 183803 mtime 2026-09-11T15:39:50.7494848Z",
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\opentest4j\\opentest4j\\1.3.0\\opentest4j-1.3.0.jar": "size 14304 mtime 2026-09-11T15:39:50.7358095Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

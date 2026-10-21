@@ -1,0 +1,5 @@
+Kotlin Toolchain version 0.13.0 (abc7a5f, 2026-10-01)
+running on Windows 11 10.0 jvm arch amd64
+
+00:17.302 INFO  :Trab1GoGame:compileJvm   Slf4jExtensionsKt         Compiling module 'Trab1GoGame' for platform 'jvm'...
+00:23.639 INFO  :Trab1GoGame:compileJvm   MessagesKt                Compilation successful for 'Trab1GoGame' [jvm]

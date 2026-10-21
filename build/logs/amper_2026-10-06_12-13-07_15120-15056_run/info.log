@@ -1,0 +1,10 @@
+Kotlin Toolchain version 0.13.0 (abc7a5f, 2026-10-01)
+running on Windows 11 10.0 jvm arch amd64
+
+00:02.364 INFO  :Trab1GoGame:compileJvm   Slf4jExtensionsKt         Compiling module 'Trab1GoGame' for platform 'jvm'...
+00:03.527 INFO  :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Non-incremental compilation will be performed: Unknown inputs changes
+00:06.623 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:31:41: Cannot access 'val cells: Array<Array<Color>>': it is private in 'Board'.
+00:06.625 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:31:41: Cannot access 'val cells: Array<Array<Color>>': it is private in 'Board'.
+00:06.630 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:34:35: Cannot access 'val cells: Array<Array<Color>>': it is private in 'Board'.
+00:06.630 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:34:35: Cannot access 'val cells: Array<Array<Color>>': it is private in 'Board'.
+00:06.700 ERROR                           MainKt                    Task ':Trab1GoGame:compileJvm' failed: Kotlin compilation failed with 2 errors (see above)

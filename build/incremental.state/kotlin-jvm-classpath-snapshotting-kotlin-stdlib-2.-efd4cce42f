@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\hasti\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar": "size 1853314 mtime 2026-09-18T15:14:04.9934014Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\ic-cache\\classpath-snapshots\\kotlin-stdlib-2.4.20.jar-d60eac066cc58f1234733b2e21269905ac94deac20ee3c1c3b583f1f43abce10.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\ic-cache\\classpath-snapshots\\kotlin-stdlib-2.4.20.jar-d60eac066cc58f1234733b2e21269905ac94deac20ee3c1c3b583f1f43abce10.abi": "size 273025 mtime 2026-10-04T18:43:08.0060855Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

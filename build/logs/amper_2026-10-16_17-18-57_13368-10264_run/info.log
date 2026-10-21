@@ -1,0 +1,11 @@
+Kotlin Toolchain version 0.13.0 (abc7a5f, 2026-10-01)
+running on Windows 11 10.0 jvm arch amd64
+
+00:04.849 INFO  :Trab1GoGame:compileJvm   Slf4jExtensionsKt         Compiling module 'Trab1GoGame' for platform 'jvm'...
+00:14.069 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\save.kt:4:32: Unresolved reference 'cells' on receiver of type 'Int'.
+00:14.072 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/save.kt:4:32: Unresolved reference 'cells' on receiver of type 'Int'.
+00:14.080 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\save.kt:5:9: Cannot infer type for value parameter 'line'. Specify it explicitly.
+00:14.081 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/save.kt:5:9: Cannot infer type for value parameter 'line'. Specify it explicitly.
+00:14.088 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\save.kt:5:39: Cannot infer type for value parameter 'stone'. Specify it explicitly.
+00:14.089 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/save.kt:5:39: Cannot infer type for value parameter 'stone'. Specify it explicitly.
+00:14.235 ERROR                           MainKt                    Task ':Trab1GoGame:compileJvm' failed: Kotlin compilation failed with 3 errors (see above)

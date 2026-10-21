@@ -1,0 +1,87 @@
+Kotlin Toolchain version 0.13.0 (abc7a5f, 2026-10-01)
+running on Windows 11 10.0 jvm arch amd64
+
+00:01.898 DEBUG                           MockProjectInitializer$DebugLogger Loaded text for file C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\module.yaml
+00:02.610 DEBUG :Trab1GoGame:resolveDependenciesJvm ResolveExternalDependenciesTask$Companion resolve dependencies Trab1GoGame -- main -- org.jetbrains.kotlin:kotlin-stdlib:2.4.20 -- resolvePlatform=jvm nativeTarget=null wasmTarget=null
+00:02.646 DEBUG :Trab1GoGame:resolveDependenciesJvm IncrementalCache          [inc] 'Trab1GoGame:jvm:main' is up-to-date according to state file at 'C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\incremental.state\Trab1GoGame_jvm_main-6e92b4709e'
+00:02.675 DEBUG :Trab1GoGame:resolveDependenciesJvm ResolveExternalDependenciesTask$Companion resolve dependencies Trab1GoGame -- main -- org.jetbrains.kotlin:kotlin-stdlib:2.4.20 -- resolvePlatform=JVM nativeTarget=null
+wasmTarget=null
+https://repo1.maven.org/maven2 https://maven.google.com resolved to:
+  .m2.cache\org\jetbrains\kotlin\kotlin-stdlib\2.4.20\kotlin-stdlib-2.4.20.jar
+  .m2.cache\org\jetbrains\annotations\13.0\annotations-13.0.jar
+00:02.678 DEBUG :Trab1GoGame:compileJvm   JvmCompileTask            compile Trab1GoGame -- main
+00:02.696 DEBUG :Trab1GoGame:compileJvm   JdkProvider               JAVA_HOME is not set (or empty). The Kotlin Toolchain will provision a JDK instead.
+00:02.748 DEBUG :Trab1GoGame:compileJvm   IncrementalCache          [inc] 'jdk-provisioning_{"majorVersion":25}' is up-to-date according to state file at 'C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\incremental.state\jdk-provisioning___majorVersion__25_-a1d432fb5a'
+00:02.778 DEBUG :Trab1GoGame:compileJvm   IncrementalCache          [inc] building ':Trab1GoGame:compileJvm'
+00:02.786 INFO  :Trab1GoGame:compileJvm   Slf4jExtensionsKt         Compiling module 'Trab1GoGame' for platform 'jvm'...
+00:02.791 DEBUG :Trab1GoGame:compileJvm   JvmCompileTask            Compiling Kotlin/JVM sources for module 'Trab1GoGame'...
+00:02.818 DEBUG :Trab1GoGame:compileJvm   IncrementalCache          [inc] 'resolve-org.jetbrains.kotlin-kotlin-build-tools-impl-2.4.20' is up-to-date according to state file at 'C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\incremental.state\resolve-org.jetbrains.kotlin-kotlin-build-tools-im-c158279dfa'
+00:03.622 DEBUG :Trab1GoGame:compileJvm   IncrementalCache          [inc] 'kotlin-jvm-classpath-snapshotting-annotations-13.0.jar-48dbc05b3e335ed8782682e5415b6ac1f6b153856b1f28c2bb5953c35ab6d628' is up-to-date according to state file at 'C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\incremental.state\kotlin-jvm-classpath-snapshotting-annotations-13.0-d62c8400bd'
+00:03.622 DEBUG :Trab1GoGame:compileJvm   IncrementalCache          [inc] 'kotlin-jvm-classpath-snapshotting-kotlin-stdlib-2.4.20.jar-d60eac066cc58f1234733b2e21269905ac94deac20ee3c1c3b583f1f43abce10' is up-to-date according to state file at 'C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\incremental.state\kotlin-jvm-classpath-snapshotting-kotlin-stdlib-2.-efd4cce42f'
+00:04.788 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Compiling using the in-process strategy
+00:04.852 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Kotlin compiler args: -classpath C:\Users\hasti\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\kotlin\kotlin-stdlib\2.4.20\kotlin-stdlib-2.4.20.jar;C:\Users\hasti\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\annotations\13.0\annotations-13.0.jar -d C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output -jdk-home C:\Users\hasti\AppData\Local\JetBrains\Kotlin\extract.cache\c93db5a50c-OpenJDK25U-jdk_x64_windows_hotspot_25.0.4.1_1.zip.3d4c28.d\jdk-25.0.4.1+1 -Xjdk-release=25 -module-name Trab1GoGame -no-stdlib -Xenable-incremental-compilation
+00:04.859 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Source changes: ToBeComputed
+00:04.859 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Configuration inputs: ConfigurationInputs(icConfigurationInputsSnapshot={rootProjectDir=C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame, moduleBuildDir=C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build, outputDirs=null, useFirRunner=false, unsafeIncrementalCompilationForMultiplatform=false, monotonousIncrementalCompileSetExpansion=true, usePreciseJavaTracking=false, kotlinSourceFileExtensions=kt,kts, kotlinVersion=2.4.20}, compilerArgumentsInputsSnapshot=[-Xjdk-release=25, -classpath, -jdk-home, -module-name, -no-stdlib, C:\Users\hasti\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\kotlin\kotlin-stdlib\2.4.20\kotlin-stdlib-2.4.20.jar;C:\Users\hasti\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\annotations\13.0\annotations-13.0.jar, C:\Users\hasti\AppData\Local\JetBrains\Kotlin\extract.cache\c93db5a50c-OpenJDK25U-jdk_x64_windows_hotspot_25.0.4.1_1.zip.3d4c28.d\jdk-25.0.4.1+1, Trab1GoGame])
+00:05.116 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Classpath changes info passed from Gradle task: ToBeComputedByIncrementalCompiler
+00:05.233 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     [ClasspathSnapshot] Shrunk current classpath snapshot for diffing, retained 30 / 862 classes
+00:05.256 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     [ClasspathSnapshot] Loaded shrunk previous classpath snapshot for diffing, found 30 classes
+00:05.272 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     [ClasspathSnapshot] Changed set = ProgramSymbolSet(classes = [], classMembers = {}, packageMembers = {})
+00:05.737 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Process SignatureChanged(fqName = .kotlin_module)
+00:05.765 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Process SignatureChanged(fqName = Color)
+00:05.765 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Process SignatureChanged(fqName = BoardKt)
+00:05.765 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Process SignatureChanged(fqName = MainKt)
+00:06.069 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Deleting C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\MainKt.class on clearing cache for C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt
+00:06.069 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Deleting C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\META-INF\Trab1GoGame.kotlin_module on clearing cache for C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt
+00:06.071 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Deleting C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\Color.class on clearing cache for C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\Board.kt
+00:06.071 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Deleting C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\Board.class on clearing cache for C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\Board.kt
+00:06.072 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Deleting C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\BoardKt.class on clearing cache for C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\Board.kt
+00:06.073 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Deleting C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\META-INF\Trab1GoGame.kotlin_module on clearing cache for C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\Board.kt
+00:10.994 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     [KOTLIN] compile iteration: src\main.kt, src\Board.kt, src\Stones.kt
+00:10.994 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Compile iteration:
+00:10.994 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt       src\main.kt <- dirty member #Color
+00:10.994 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt       src\Board.kt <- dirty class Color
+00:10.995 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt       src\Stones.kt <- was modified since last time
+00:10.997 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Using Kotlin home directory <no_path>
+00:10.998 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Exception on loading scripting plugin: java.lang.ClassNotFoundException: org.jetbrains.kotlin.scripting.compiler.plugin.ScriptingK2CompilerPluginRegistrar
+00:10.998 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Scripting plugin will not be loaded: not all required jars are present in the classpath (missing files: [.\kotlin-scripting-compiler.jar, .\kotlin-scripting-compiler-impl.jar, .\kotlin-scripting-common.jar, .\kotlin-scripting-jvm.jar])
+00:10.998 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Configuring the compilation environment
+00:10.998 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Using JDK home directory C:\Users\hasti\AppData\Local\JetBrains\Kotlin\extract.cache\c93db5a50c-OpenJDK25U-jdk_x64_windows_hotspot_25.0.4.1_1.zip.3d4c28.d\jdk-25.0.4.1+1
+00:10.998 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Loading modules: [java.se, jdk.accessibility, jdk.attach, jdk.compiler, jdk.dynalink, jdk.httpserver, jdk.incubator.vector, jdk.jartool, jdk.javadoc, jdk.jconsole, jdk.jdi, jdk.jfr, jdk.jshell, jdk.jsobject, jdk.management, jdk.management.jfr, jdk.net, jdk.nio.mapmode, jdk.sctp, jdk.security.auth, jdk.security.jgss, jdk.unsupported, jdk.unsupported.desktop, jdk.xml.dom, java.base, java.compiler, java.datatransfer, java.desktop, java.xml, java.instrument, java.logging, java.management, java.management.rmi, java.rmi, java.naming, java.net.http, java.prefs, java.scripting, java.security.jgss, java.security.sasl, java.sql, java.transaction.xa, java.sql.rowset, java.xml.crypto, jdk.internal.jvmstat, jdk.internal.opt, jdk.zipfs, jdk.internal.md, jdk.management.agent, jdk.jdwp.agent, jdk.internal.ed, jdk.internal.le]
+00:10.999 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Output:
+C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\Board.class
+Sources:
+C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\Board.kt
+00:10.999 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Output:
+C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\BoardKt.class
+Sources:
+C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\Board.kt
+00:10.999 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Output:
+C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\Stone.class
+Sources:
+C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\Stones.kt
+00:10.999 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Output:
+C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\MainKt.class
+Sources:
+C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt
+00:10.999 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Output:
+C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\META-INF\Trab1GoGame.kotlin_module
+Sources:
+C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt
+C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\Board.kt
+C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\Stones.kt
+00:11.203 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Process Removed(fqName = <root>, names = [BOARD_SIZE])
+00:11.205 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Process MembersChanged(fqName = <root>, names = [BOARD_SIZE])
+00:11.206 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Process MembersChanged(fqName = Board, names = [cells, get])
+00:11.206 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Process SignatureChanged(fqName = Color)
+00:11.206 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Process SignatureChanged(fqName = Stone)
+00:11.206 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Process ParentsChanged(fqName = Color)
+00:11.206 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Process ParentsChanged(fqName = Stone)
+00:11.218 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     [ClasspathSnapshot] Shrunk current classpath snapshot after compilation (shrink mode = ChangedLookupsChangedClasspath), retained 30 / 862 classes
+00:11.291 DEBUG :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     Incremental compilation completed
+00:11.339 INFO  :Trab1GoGame:compileJvm   MessagesKt                Compilation successful for 'Trab1GoGame' [jvm]
+00:11.350 DEBUG :Trab1GoGame:compileJvm   IncrementalCache          [inc] ':Trab1GoGame:compileJvm' changes: 'C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\Board.class' MODIFIED, 'C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\BoardKt.class' MODIFIED, 'C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\Color.class' DELETED, 'C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\META-INF\Trab1GoGame.kotlin_module' MODIFIED, 'C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\MainKt.class' MODIFIED, 'C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\artifacts\CompiledJvmArtifact\Trab1GoGamejvm\kotlin-output\Stone.class' CREATED
+00:11.364 DEBUG :Trab1GoGame:jarJvm       IncrementalCache          [inc] building ':Trab1GoGame:jarJvm'
+00:11.388 DEBUG :Trab1GoGame:jarJvm       IncrementalCache          [inc] ':Trab1GoGame:jarJvm' changes: 'C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\tasks\_Trab1GoGame_jarJvm\Trab1GoGame-jvm.jar' MODIFIED
+00:11.392 DEBUG :Trab1GoGame:runJvm       JdkProvider               JAVA_HOME is not set (or empty). The Kotlin Toolchain will provision a JDK instead.
+00:11.403 DEBUG :Trab1GoGame:runJvm       ProcessRunner             [cmd] C:\Users\hasti\AppData\Local\JetBrains\Kotlin\extract.cache\c93db5a50c-OpenJDK25U-jdk_x64_windows_hotspot_25.0.4.1_1.zip.3d4c28.d\jdk-25.0.4.1+1\bin\java.exe @C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\temp\java-args-7604383416559907800.txt
+00:23.310 ERROR                           MainKt                    Task ':Trab1GoGame:runJvm' failed: Process failed with exit code 1

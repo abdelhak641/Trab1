@@ -1,0 +1,18 @@
+Kotlin Toolchain version 0.13.0 (abc7a5f, 2026-10-01)
+running on Windows 11 10.0 jvm arch amd64
+
+00:02.072 DEBUG                           MockProjectInitializer$DebugLogger Loaded text for file C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\module.yaml
+00:02.479 DEBUG :Trab1GoGame:resolveDependenciesJvm ResolveExternalDependenciesTask$Companion resolve dependencies Trab1GoGame -- main -- org.jetbrains.kotlin:kotlin-stdlib:2.4.20 -- resolvePlatform=jvm nativeTarget=null wasmTarget=null
+00:02.519 DEBUG :Trab1GoGame:resolveDependenciesJvm IncrementalCache          [inc] 'Trab1GoGame:jvm:main' is up-to-date according to state file at 'C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\incremental.state\Trab1GoGame_jvm_main-6e92b4709e'
+00:02.551 DEBUG :Trab1GoGame:resolveDependenciesJvm ResolveExternalDependenciesTask$Companion resolve dependencies Trab1GoGame -- main -- org.jetbrains.kotlin:kotlin-stdlib:2.4.20 -- resolvePlatform=JVM nativeTarget=null
+wasmTarget=null
+https://repo1.maven.org/maven2 https://maven.google.com resolved to:
+  .m2.cache\org\jetbrains\kotlin\kotlin-stdlib\2.4.20\kotlin-stdlib-2.4.20.jar
+  .m2.cache\org\jetbrains\annotations\13.0\annotations-13.0.jar
+00:02.555 DEBUG :Trab1GoGame:compileJvm   JvmCompileTask            compile Trab1GoGame -- main
+00:02.574 DEBUG :Trab1GoGame:compileJvm   JdkProvider               JAVA_HOME is not set (or empty). The Kotlin Toolchain will provision a JDK instead.
+00:02.641 DEBUG :Trab1GoGame:compileJvm   IncrementalCache          [inc] 'jdk-provisioning_{"majorVersion":25}' is up-to-date according to state file at 'C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\incremental.state\jdk-provisioning___majorVersion__25_-a1d432fb5a'
+00:02.672 DEBUG :Trab1GoGame:compileJvm   IncrementalCache          [inc] ':Trab1GoGame:compileJvm' is up-to-date according to state file at 'C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\incremental.state\_Trab1GoGame_compileJvm-dd9da0452e'
+00:02.691 DEBUG :Trab1GoGame:jarJvm       IncrementalCache          [inc] ':Trab1GoGame:jarJvm' is up-to-date according to state file at 'C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\incremental.state\_Trab1GoGame_jarJvm-adc888ff81'
+00:02.696 DEBUG :Trab1GoGame:runJvm       JdkProvider               JAVA_HOME is not set (or empty). The Kotlin Toolchain will provision a JDK instead.
+00:02.707 DEBUG :Trab1GoGame:runJvm       ProcessRunner             [cmd] C:\Users\hasti\AppData\Local\JetBrains\Kotlin\extract.cache\c93db5a50c-OpenJDK25U-jdk_x64_windows_hotspot_25.0.4.1_1.zip.3d4c28.d\jdk-25.0.4.1+1\bin\java.exe @C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\temp\java-args-3458735322619892961.txt

@@ -1,0 +1,9 @@
+Kotlin Toolchain version 0.13.0 (abc7a5f, 2026-10-01)
+running on Windows 11 10.0 jvm arch amd64
+
+00:02.907 INFO  :Trab1GoGame:compileJvm   Slf4jExtensionsKt         Compiling module 'Trab1GoGame' for platform 'jvm'...
+00:07.993 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:23:13: 'val' cannot be reassigned.
+00:07.995 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:23:13: 'val' cannot be reassigned.
+00:08.001 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:41:29: 'val' cannot be reassigned.
+00:08.002 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:41:29: 'val' cannot be reassigned.
+00:08.090 ERROR                           MainKt                    Task ':Trab1GoGame:compileJvm' failed: Kotlin compilation failed with 2 errors (see above)

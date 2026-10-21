@@ -1,0 +1,7 @@
+Kotlin Toolchain version 0.13.0 (abc7a5f, 2026-10-01)
+running on Windows 11 10.0 jvm arch amd64
+
+00:02.348 INFO  :Trab1GoGame:compileJvm   Slf4jExtensionsKt         Compiling module 'Trab1GoGame' for platform 'jvm'...
+00:06.880 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\Board.kt:16:97: No 'get' operator method providing array access.
+00:06.883 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/Board.kt:16:97: No 'get' operator method providing array access.
+00:06.984 ERROR                           MainKt                    Task ':Trab1GoGame:compileJvm' failed: Kotlin compilation failed with 1 errors (see above)

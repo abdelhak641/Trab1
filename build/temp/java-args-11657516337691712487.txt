@@ -1,0 +1,4 @@
+-cp
+C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\build\tasks\_Trab1GoGame_jarJvm\Trab1GoGame-jvm.jar;C:\Users\hasti\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\kotlin\kotlin-stdlib\2.4.20\kotlin-stdlib-2.4.20.jar;C:\Users\hasti\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\annotations\13.0\annotations-13.0.jar
+-ea
+MainKt

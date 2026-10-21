@@ -1,0 +1,39 @@
+Kotlin Toolchain version 0.13.0 (abc7a5f, 2026-10-01)
+running on Windows 11 10.0 jvm arch amd64
+
+00:23.015 INFO  :Trab1GoGame:compileJvm   Slf4jExtensionsKt         Compiling module 'Trab1GoGame' for platform 'jvm'...
+00:30.805 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\Game.kt:11:21: No value passed for parameter 'size'.
+00:30.808 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/Game.kt:11:21: No value passed for parameter 'size'.
+00:30.812 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\Game.kt:13:23: No value passed for parameter 'stone'.
+00:30.813 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/Game.kt:13:23: No value passed for parameter 'stone'.
+00:30.817 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\Game.kt:13:53: Argument type mismatch: actual type is 'Stone', but 'StoneColor' was expected.
+00:30.817 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/Game.kt:13:53: Argument type mismatch: actual type is 'Stone', but 'StoneColor' was expected.
+00:30.821 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\Game.kt:14:9: Argument already passed for this parameter.
+00:30.821 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/Game.kt:14:9: Argument already passed for this parameter.
+00:30.825 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:1:8: Unresolved reference 'board'.
+00:30.826 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:1:8: Unresolved reference 'board'.
+00:30.828 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:2:8: Unresolved reference 'board'.
+00:30.828 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:2:8: Unresolved reference 'board'.
+00:30.831 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:3:8: Unresolved reference 'board'.
+00:30.832 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:3:8: Unresolved reference 'board'.
+00:30.834 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:13:9: Unresolved reference 'printBoard'.
+00:30.834 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:13:9: Unresolved reference 'printBoard'.
+00:30.838 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:26:26: Unresolved reference 'BLACK'.
+00:30.838 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:26:26: Unresolved reference 'BLACK'.
+00:30.840 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:32:31: Unresolved reference 'position'.
+00:30.841 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:32:31: Unresolved reference 'position'.
+00:30.844 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:36:39: Unresolved reference 'first' on receiver of type 'Any'.
+00:30.845 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:36:39: Unresolved reference 'first' on receiver of type 'Any'.
+00:30.848 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:37:39: Unresolved reference 'second' on receiver of type 'Any'.
+00:30.848 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:37:39: Unresolved reference 'second' on receiver of type 'Any'.
+00:30.851 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:40:66: Unresolved reference 'EMPTY'.
+00:30.851 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:40:66: Unresolved reference 'EMPTY'.
+00:30.855 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:43:45: No 'set' operator method providing array access.
+00:30.855 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:43:45: No 'set' operator method providing array access.
+00:30.858 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:44:54: Unresolved reference 'BLACK'.
+00:30.858 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:44:54: Unresolved reference 'BLACK'.
+00:30.861 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:45:39: Unresolved reference 'WHITE'.
+00:30.861 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:45:39: Unresolved reference 'WHITE'.
+00:30.863 ERROR :Trab1GoGame:compileJvm   LoggingProblemReporter    C:\Users\hasti\OneDrive\ISEL\3SEM\TDS\Trab1\Trab1GoGame\src\main.kt:47:39: Unresolved reference 'BLACK'.
+00:30.863 ERROR :Trab1GoGame:compileJvm   KotlinBuildToolsApiKt     C:/Users/hasti/OneDrive/ISEL/3SEM/TDS/Trab1/Trab1GoGame/src/main.kt:47:39: Unresolved reference 'BLACK'.
+00:30.944 ERROR :Trab1GoGame:resolveDependenciesJvmTest MainKt                    Task ':Trab1GoGame:compileJvm' failed: Kotlin compilation failed with 17 errors (see above)
