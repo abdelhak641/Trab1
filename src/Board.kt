@@ -31,4 +31,3 @@ fun printBoard(board: Board){
 
     }
 }
-//board.print

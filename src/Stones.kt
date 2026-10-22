@@ -11,9 +11,3 @@ fun symbol(color: StoneColor?) : Char = when(color){
     StoneColor.WHITE -> 'O'
     null -> '.'
 }
-
-//fun StoneColor?.toSymbol() : Char = when(this){
-//    StoneColor.BLACK -> '#'
-//    StoneColor.WHITE -> 'O'
-//    null -> '.'
-//}

@@ -20,9 +20,9 @@
         "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\resources": "MISSING",
         "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\src\\Board.kt": "size 1048 mtime 2026-10-16T16:40:12.207Z",
         "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\src\\Game.kt": "size 419 mtime 2026-10-09T15:41:32.198Z",
-        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\src\\Stones.kt": "size 452 mtime 2026-10-16T16:48:34.045Z",
+        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\src\\Stones.kt": "size 430 mtime 2026-10-21T14:37:26.079Z",
         "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\src\\main.kt": "size 1425 mtime 2026-10-20T14:32:04.264Z",
-        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\src\\save.kt": "size 1498 mtime 2026-10-20T15:00:51.568Z",
+        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\src\\save.kt": "size 1494 mtime 2026-10-20T15:10:43.025Z",
         "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\src\\saveGame": "size 0 mtime 2026-10-16T16:04:19.516205Z"
     },
     "outputValues": {
@@ -36,13 +36,13 @@
         "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\artifacts\\CompiledJvmArtifact\\Trab1GoGamejvm\\kotlin-output\\BoardKt.class": "size 2957 mtime 2026-10-20T14:32:42.2112311Z",
         "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\artifacts\\CompiledJvmArtifact\\Trab1GoGamejvm\\kotlin-output\\Game.class": "size 3606 mtime 2026-10-16T16:19:40.1985032Z",
         "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\artifacts\\CompiledJvmArtifact\\Trab1GoGamejvm\\kotlin-output\\GameKt.class": "size 1502 mtime 2026-10-16T16:19:40.1995Z",
-        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\artifacts\\CompiledJvmArtifact\\Trab1GoGamejvm\\kotlin-output\\META-INF\\Trab1GoGame.kotlin_module": "size 71 mtime 2026-10-20T15:01:18.0539203Z",
+        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\artifacts\\CompiledJvmArtifact\\Trab1GoGamejvm\\kotlin-output\\META-INF\\Trab1GoGame.kotlin_module": "size 71 mtime 2026-10-21T14:51:09.1338666Z",
         "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\artifacts\\CompiledJvmArtifact\\Trab1GoGamejvm\\kotlin-output\\MainKt.class": "size 4496 mtime 2026-10-20T14:32:42.2152518Z",
-        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\artifacts\\CompiledJvmArtifact\\Trab1GoGamejvm\\kotlin-output\\SaveKt.class": "size 10049 mtime 2026-10-20T15:01:18.0529196Z",
-        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\artifacts\\CompiledJvmArtifact\\Trab1GoGamejvm\\kotlin-output\\Stone.class": "size 2175 mtime 2026-10-20T14:32:42.2122425Z",
-        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\artifacts\\CompiledJvmArtifact\\Trab1GoGamejvm\\kotlin-output\\StoneColor.class": "size 1805 mtime 2026-10-20T14:32:42.2122425Z",
-        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\artifacts\\CompiledJvmArtifact\\Trab1GoGamejvm\\kotlin-output\\StonesKt$WhenMappings.class": "size 649 mtime 2026-10-20T14:32:42.2142511Z",
-        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\artifacts\\CompiledJvmArtifact\\Trab1GoGamejvm\\kotlin-output\\StonesKt.class": "size 1129 mtime 2026-10-20T14:32:42.2132486Z"
+        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\artifacts\\CompiledJvmArtifact\\Trab1GoGamejvm\\kotlin-output\\SaveKt.class": "size 10049 mtime 2026-10-21T14:51:09.1327651Z",
+        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\artifacts\\CompiledJvmArtifact\\Trab1GoGamejvm\\kotlin-output\\Stone.class": "size 2175 mtime 2026-10-21T14:51:09.1296153Z",
+        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\artifacts\\CompiledJvmArtifact\\Trab1GoGamejvm\\kotlin-output\\StoneColor.class": "size 1805 mtime 2026-10-21T14:51:09.1296153Z",
+        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\artifacts\\CompiledJvmArtifact\\Trab1GoGamejvm\\kotlin-output\\StonesKt$WhenMappings.class": "size 649 mtime 2026-10-21T14:51:09.1316192Z",
+        "C:\\Users\\hasti\\OneDrive\\ISEL\\3SEM\\TDS\\Trab1\\Trab1GoGame\\build\\artifacts\\CompiledJvmArtifact\\Trab1GoGamejvm\\kotlin-output\\StonesKt.class": "size 902 mtime 2026-10-21T14:51:09.1306121Z"
     },
     "excludedOutputFiles": [],
     "dynamicInputs": {}
